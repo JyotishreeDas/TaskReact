@@ -1,7 +1,7 @@
 # TaskReact
 Run below commands
 
-npm install
-npm install --save style-loader
-npm install --save css-loader
+npm install <br/>
+npm install --save style-loader <br/>
+npm install --save css-loader <br/>
 npm start
